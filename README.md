@@ -27,8 +27,54 @@ I’m passionate about designing scalable backend systems and modern frontends w
 <a href="https://www.youtube.com/c/nayakrajesh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nayakrajesh07" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠 Languages & Tools
+
+<p align="left">
+
+<!-- Java -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+
+<!-- JDBC (use Java DB icon) -->
+<img src="https://img.icons8.com/?size=512&id=13441&format=png" width="45" height="45" title="JDBC"/>
+
+<!-- Servlet -->
+<img src="https://img.icons8.com/?size=512&id=90519&format=png" width="45" height="45" title="Servlet"/>
+
+<!-- JSP -->
+<img src="https://img.icons8.com/?size=512&id=90519&format=png" width="45" height="45" title="JSP"/>
+
+<!-- Spring -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" title="Spring"/>
+
+<!-- Spring Boot -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" title="Spring Boot"/>
+
+<!-- Spring REST API -->
+<img src="https://img.icons8.com/?size=512&id=12156&format=png" width="45" height="45" title="Spring REST"/>
+
+<!-- Microservices -->
+<img src="https://img.icons8.com/?size=512&id=sdH0lC5nWm9A&format=png" width="45" height="45" title="Microservices"/>
+
+<!-- MySQL -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
+
+<!-- Oracle DB -->
+<img src="https://img.icons8.com/?size=512&id=59913&format=png" width="45" height="45" title="Oracle"/>
+
+<!-- Maven -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="45" height="45" title="Maven"/>
+
+<!-- JavaScript -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+
+<!-- React JS -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
+
+<!-- Bootstrap -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/>
+
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayakrajesh123&show_icons=true&locale=en&layout=compact" alt="nayakrajesh123" /></p>
 
